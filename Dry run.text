@@ -1,0 +1,17 @@
+num=12345
+temp=num
+nod=0
+temp>0
+temp=Math.floor(temp/10);
+nod++
+num=1
+temp=1
+0>1 true
+temp=floor(12345/10)=1234.5= floorvalue=1234  1234>0=true
+num=1234=(1234/10)=123.4=floorvalue=123 123>0=true
+num=123=(123/10)=12.3= floor vlaue=12 0>12=true
+num=12=(12/10)=1.2=floor value=1 0>1=true
+num=1=(1/10)=0.1=floorvalue=0 0>0=false
+
+
+
